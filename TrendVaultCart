@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vault Trend Cart</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background: #222; color: #fff; padding: 15px; text-align: center; }
+        nav { display: flex; justify-content: center; background: #444; padding: 10px; }
+        nav a { color: white; padding: 10px 20px; text-decoration: none; }
+        .container { padding: 20px; text-align: center; }
+        .products { display: flex; flex-wrap: wrap; justify-content: center; }
+        .product { border: 1px solid #ddd; padding: 10px; margin: 10px; width: 200px; }
+        footer { background: #222; color: white; text-align: center; padding: 10px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Vault Trend Cart</h1>
+        <p>Your one-stop shop for everything trendy!</p>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Shop</a>
+        <a href="#">Categories</a>
+        <a href="#">Family</a>
+        <a href="#">Children</a>
+        <a href="#">About Us</a>
+        <a href="#">Contact</a>
+    </nav>
+    <div class="container">
+        <h2>Featured Products</h2>
+        <div class="products">
+            <div class="product">
+                <img src="placeholder.jpg" alt="Product 1" width="100%">
+                <h3>Product Name</h3>
+                <p>$XX.XX</p>
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="placeholder.jpg" alt="Product 2" width="100%">
+                <h3>Product Name</h3>
+                <p>$XX.XX</p>
+                <button>Add to Cart</button>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2025 Vault Trend Cart. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vault Trend Cart</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background: #222; color: #fff; padding: 15px; text-align: center; }
+        nav { display: flex; justify-content: center; background: #444; padding: 10px; }
+        nav a { color: white; padding: 10px 20px; text-decoration: none; }
+        .container { padding: 20px; text-align: center; }
+        .products { display: flex; flex-wrap: wrap; justify-content: center; }
+        .product { border: 1px solid #ddd; padding: 10px; margin: 10px; width: 200px; }
+        footer { background: #222; color: white; text-align: center; padding: 10px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Vault Trend Cart</h1>
+        <p>Your one-stop shop for everything trendy!</p>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Shop</a>
+        <a href="#">Categories</a>
+        <a href="#">Family</a>
+        <a href="#">Children</a>
+        <a href="#">About Us</a>
+        <a href="#">Contact</a>
+    </nav>
+    <div class="container">
+        <h2>Featured Products</h2>
+        <div class="products">
+            <div class="product">
+                <img src="placeholder.jpg" alt="Product 1" width="100%">
+                <h3>Product Name</h3>
+                <p>$XX.XX</p>
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="placeholder.jpg" alt="Product 2" width="100%">
+                <h3>Product Name</h3>
+                <p>$XX.XX</p>
+                <button>Add to Cart</button>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2025 Vault Trend Cart. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
